@@ -161,6 +161,16 @@ The list was popularized by Jeff Dean and Peter Norvig, and hardware has improve
 
 The correct order of magnitude is sufficient. An interviewer evaluates the assumptions and the method. An answer of 36 TB when the careful figure is 42 TB leads to the same design, so the difference has no consequence.
 
+## Free reading on DesignGurus.io
+
+- Free article: [Back-of-the-Envelope Estimation: A Step-by-Step Guide for System Design Interviews](https://www.designgurus.io/blog/back-of-the-envelope-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the estimation method at full length.
+- Free article: [System Design Cheat Sheet: All Key Concepts on One Page](https://www.designgurus.io/blog/system-design-cheat-sheet?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the concepts behind the numbers.
+- Free article: [Throughput vs Latency: What Each Measures and the Trade-Off](https://www.designgurus.io/blog/throughput-vs-latency?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the two measures every estimate uses.
+- Free article: [High Availability in System Design: 15 Strategies for Always-On Systems](https://www.designgurus.io/blog/high-availability-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): how a system reaches each availability target.
+- Free article: [How to Design a URL Shortener](https://www.designgurus.io/blog/url-shortening?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): a full design that starts from an estimate.
+- Free article: [How to Design a Social Media News Feed](https://www.designgurus.io/blog/design-social-media-news-feed?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): a read-heavy design with its numbers.
+- Free article: [Designing a Scalable Video Streaming Platform Like YouTube and Netflix](https://www.designgurus.io/blog/design-video-streaming-platform?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): a design where storage and bandwidth dominate.
+
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme) applies these numbers to complete designs, with a framework for each step of the interview.

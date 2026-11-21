@@ -59,3 +59,4 @@ In bits               23 GB x 8                   = about 185 Gbps
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-photo-sharing) contains the complete photo sharing design, including feed generation.
 - The sibling repository has a [photo sharing walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-instagram.md) for the complete design.
 - [Storage and object sizes](../numbers/storage-and-object-sizes.md) lists the image sizes assumed here.
+- Free article: [How to Design Instagram: A System Design Interview Walkthrough](https://www.designgurus.io/blog/how-to-design-instagram-in-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-photo-sharing), the design that these numbers size.

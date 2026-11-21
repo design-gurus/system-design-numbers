@@ -64,3 +64,5 @@ The six local calls consume 3.6 ms, which is under 2 percent of the budget. The 
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-latency) shows how to state a latency budget and defend it during a design.
 - [Grokking System Design Fundamentals](https://www.designgurus.io/course/grokking-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-latency) explains caching, replication, and content delivery networks, the three techniques these gaps justify.
+- Free article: [Throughput vs Latency: What Each Measures and the Trade-Off](https://www.designgurus.io/blog/throughput-vs-latency?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-latency)
+- Free article: [Demystifying Long-Tail Latency](https://www.designgurus.io/blog/long-tail-latency?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-latency), which explains why the slowest requests matter more than the average.

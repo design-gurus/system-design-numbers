@@ -69,3 +69,4 @@ A product with 100 million daily users who each spend 60 minutes has about 4.2 m
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-traffic-formulas) places this calculation in the second step of its interview framework.
 - [Time conversions](time-conversions.md) lists the per-day to per-second shortcuts.
 - [Estimation method](../cheat-sheets/estimation-method.md) continues from traffic to storage and bandwidth.
+- Free article: [Back-of-the-Envelope Estimation: A Step-by-Step Guide for System Design Interviews](https://www.designgurus.io/blog/back-of-the-envelope-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-traffic-formulas), which applies these formulas in a full estimate.

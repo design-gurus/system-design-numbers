@@ -71,3 +71,4 @@ No single data center link should carry 185 Gbps of image traffic. The result se
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-network-and-bandwidth) covers CDN placement and media delivery in its video and photo designs.
 - [Video streaming](../estimations/video-streaming.md) and [web crawler](../estimations/web-crawler.md) are the two estimations where bandwidth decides the design.
+- Free article: [CDN Architecture in System Design: How Content Delivery Networks Work](https://www.designgurus.io/blog/content-delivery-network-cdn-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-network-and-bandwidth), the component that carries most of the bandwidth for large objects.

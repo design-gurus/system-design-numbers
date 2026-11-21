@@ -64,3 +64,4 @@ Storage per year    4.32 TB x 365                  = about 1.6 PB
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-ride-hailing-location-updates) contains the complete ride-hailing design, including geographic indexing and matching.
 - The sibling repository has a [ride-hailing walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-uber.md) for the complete design.
 - [Component capacity](../numbers/component-capacity.md) gives the per-node throughput assumed here.
+- Free article: [How to Design a Ride Sharing Service](https://www.designgurus.io/blog/ride-sharing-service?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-ride-hailing-location-updates), the design that these numbers size.

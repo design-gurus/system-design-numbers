@@ -1,0 +1,71 @@
+# System Design Numbers
+
+> Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Cheat sheets
+
+- [Common estimation mistakes](https://github.com/design-gurus/system-design-numbers/blob/main/cheat-sheets/common-mistakes.md): Most wrong estimates come from a small set of errors.
+- [Estimation method](https://github.com/design-gurus/system-design-numbers/blob/main/cheat-sheets/estimation-method.md): A back-of-the-envelope estimation follows the same five steps for every system.
+- [System design numbers on one page](https://github.com/design-gurus/system-design-numbers/blob/main/cheat-sheets/one-page.md): Every table from this repository in condensed form, for a final review.
+- [Rounding rules](https://github.com/design-gurus/system-design-numbers/blob/main/cheat-sheets/rounding-rules.md): Estimation by hand is practical only with rounded numbers.
+
+## Worked estimations
+
+- [Estimation: chat messaging](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/chat-messaging.md): A chat service delivers short messages between users in real time and stores the history.
+- [Estimation: notification system](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/notification-system.md): A notification system sends push messages, emails, and text messages on behalf of other services.
+- [Estimation: photo sharing](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/photo-sharing.md): A photo sharing service stores uploaded images and shows them in feeds and profiles.
+- [Estimation: rate limiter memory](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/rate-limiter-memory.md): A rate limiter rejects requests from a client that exceeds an allowed rate.
+- [Estimation: ride-hailing location updates](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/ride-hailing-location-updates.md): A ride-hailing service must know where every active driver is, so that it can match riders with nearby cars.
+- [Estimation: social feed](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/social-feed.md): A social feed shows each user recent posts from the accounts they follow.
+- [Estimation: typeahead](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/typeahead.md): Typeahead, also called autocomplete, suggests complete queries while a user is still typing.
+- [Estimation: URL shortener](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/url-shortener.md): A URL shortener stores a mapping from a short key to a long address and redirects visitors.
+- [Estimation: video streaming](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/video-streaming.md): A video streaming service stores uploaded videos and delivers them to viewers.
+- [Estimation: web crawler](https://github.com/design-gurus/system-design-numbers/blob/main/estimations/web-crawler.md): A web crawler downloads pages, extracts their links, and repeats the process to keep a copy of the web current.
+
+## Numbers
+
+- [Availability nines](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/availability-nines.md): Availability is the share of time a system answers requests correctly, written as a percentage.
+- [Component capacity](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/component-capacity.md): An estimate ends with a count of machines, and that count needs an assumption about what one machine can handle.
+- [Latency numbers](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/latency.md): Latency is the time between starting an operation and receiving its result.
+- [Network and bandwidth](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/network-and-bandwidth.md): Bandwidth is the amount of data a network link carries per second.
+- [Powers of two and data sizes](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/powers-of-two-and-data-sizes.md): Storage and memory are counted in powers of two, while traffic is counted in powers of ten.
+- [Storage and object sizes](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/storage-and-object-sizes.md): A storage estimate is a count of objects multiplied by the size of one object.
+- [Time conversions](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/time-conversions.md): Requirements are stated per day or per month, while capacity is planned per second.
+- [Traffic formulas](https://github.com/design-gurus/system-design-numbers/blob/main/numbers/traffic-formulas.md): Traffic estimation converts a count of users into requests per second.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking Coding Interview](https://github.com/design-gurus/grokking-coding-interview): The 41 coding patterns and how to recognize each one in a new problem.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-the-system-design-interview): The course linked throughout this guide.

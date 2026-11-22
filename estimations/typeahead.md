@@ -73,5 +73,7 @@ Lookup in memory                     = under 1 ms
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-typeahead) contains the complete typeahead design, including the prefix tree and ranking.
+- Lesson: [Designing Typeahead Suggestion](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-typeahead-suggestion?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-typeahead), in Grokking the System Design Interview
+- Lesson: [Design Typeahead/Autocomplete](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-typeaheadautocomplete?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-typeahead), in System Design Interview Crash Course
 - The sibling repository has a [typeahead walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-typeahead-autocomplete.md) for the complete design.
 - [Latency numbers](../numbers/latency.md) explains the round-trip times used above.

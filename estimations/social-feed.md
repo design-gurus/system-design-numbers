@@ -58,6 +58,9 @@ Feed cache         200,000,000 x 500 x 8 B        = 800 GB
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-social-feed) covers feed generation and the choice between copying on write and merging on read.
+- Lesson: [Designing Facebook's Newsfeed](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-facebooks-newsfeed?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-social-feed), in Grokking the System Design Interview
+- Lesson: [Designing Twitter](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-twitter?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-social-feed), in Grokking the System Design Interview
+- Lesson: [Design Twitter Timeline](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-twitter-timeline?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-social-feed), in System Design Interview Crash Course
 - The sibling repository has a [social feed walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-twitter.md) for the complete design.
 - [Traffic formulas](../numbers/traffic-formulas.md) explains the conversion from users to requests per second.
 - Free article: [How to Design a Social Media News Feed: A System Design Interview Walkthrough](https://www.designgurus.io/blog/design-social-media-news-feed?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-social-feed), the design that these numbers size.

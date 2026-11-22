@@ -73,6 +73,9 @@ The path allows about 1.8 hours of downtime per year. The database is no longer 
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines) shows how to turn an availability target into replication and failover choices.
+- Lesson: [Availability](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/availability?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines), in Grokking System Design Fundamentals
+- Lesson: [Fault Tolerance vs. High Availability](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/fault-tolerance-vs-high-availability?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines), in Grokking System Design Fundamentals
+- Lesson: [SLOs, SLIs and SLAs](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/slos-slis-and-slas?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines), in Advanced System Design Fundamentals
 - [Advanced System Design Fundamentals](https://www.designgurus.io/course/advanced-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines) covers failure modes and the size of the area a failure affects.
 - [Component capacity](component-capacity.md) covers the other reason to add nodes, which is throughput.
 - Free article: [High Availability in System Design: 15 Strategies for Always-On Systems](https://www.designgurus.io/blog/high-availability-system-design-basics?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-availability-nines), the techniques that earn each extra nine.

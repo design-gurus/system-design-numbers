@@ -59,6 +59,7 @@ Cache memory      69,000,000 x 500 B       = about 35 GB
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-url-shortener) includes the complete URL shortener design, with key generation and redirection covered in detail.
+- Lesson: [Designing a URL Shortening Service like TinyURL](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-url-shortener), in Grokking the System Design Interview
 - The sibling repository has a [URL shortener walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-tinyurl.md) that starts from these numbers.
 - [Powers of two and data sizes](../numbers/powers-of-two-and-data-sizes.md) lists the key-space sizes used above.
 - Free article: [How to Design a URL Shortener: A Step-by-Step System Design Walkthrough](https://www.designgurus.io/blog/url-shortening?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-url-shortener), the design that these numbers size.

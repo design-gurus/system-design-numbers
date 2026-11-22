@@ -65,4 +65,5 @@ Compare the final figure with a known reference point. One million requests per 
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-rounding-rules) shows estimation performed aloud inside complete designs.
+- Lesson: [What Is Back-of-the-Envelope Estimation](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/what-is-backoftheenvelope-estimation?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-rounding-rules), in Grokking System Design Fundamentals
 - [Time conversions](../numbers/time-conversions.md) and [powers of two](../numbers/powers-of-two-and-data-sizes.md) list the exact values behind these shortcuts.

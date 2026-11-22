@@ -161,6 +161,18 @@ The list was popularized by Jeff Dean and Peter Norvig, and hardware has improve
 
 The correct order of magnitude is sufficient. An interviewer evaluates the assumptions and the method. An answer of 36 TB when the careful figure is 42 TB leads to the same design, so the difference has no consequence.
 
+## Course lessons to start with
+
+- [What are Back-of-the-Envelope Estimations?](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/what-are-backoftheenvelope-estimations?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): what the estimation step is for and how to perform it, in Grokking the System Design Interview
+- [Numbers You Should Know](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/numbers-you-should-know?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the reference values every estimate starts from, in Grokking System Design Fundamentals
+- [Estimating QPS, Storage, and Bandwidth](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/estimating-qps-storage-and-bandwidth?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the three calculations in order, in Grokking System Design Fundamentals
+- [A Worked Estimation Example](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/a-worked-estimation-example?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): one estimate carried from assumptions to a result, in Grokking System Design Fundamentals
+- [Latency vs Throughput](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/latency-vs-throughput?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): what each one measures and how they trade against each other, in Grokking the System Design Interview
+- [Availability](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/availability?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): how availability is measured and improved, in Grokking System Design Fundamentals
+- [Capacity Planning](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/capacity-planning?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): how to turn a load estimate into a number of machines, in Advanced System Design Fundamentals
+- [The Other Envelope: Cost Estimation](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/the-other-envelope-cost-estimation?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): how to estimate what a design costs to run, in Advanced System Design Fundamentals
+- [Designing a URL Shortening Service like TinyURL](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): a complete design that begins with an estimate, in Grokking the System Design Interview
+
 ## Free reading on DesignGurus.io
 
 - Free article: [Back-of-the-Envelope Estimation: A Step-by-Step Guide for System Design Interviews](https://www.designgurus.io/blog/back-of-the-envelope-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme): the estimation method at full length.

@@ -60,6 +60,9 @@ A candidate should present these values as assumptions: "I will assume one datab
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity) shows when each scaling step is justified in complete designs.
+- Lesson: [Capacity Planning](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/capacity-planning?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity), in Advanced System Design Fundamentals
+- Lesson: [Horizontal vs Vertical Scaling](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/horizontal-vs-vertical-scaling?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity), in Grokking the System Design Interview
+- Lesson: [Sharding in Practice](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/sharding-in-practice?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity), in Advanced System Design Fundamentals
 - [Advanced System Design Fundamentals](https://www.designgurus.io/course/advanced-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity) covers capacity and cost estimation, including the points where an estimate changes the design.
 - [Traffic formulas](traffic-formulas.md) produces the peak load this page divides.
 - Free article: [Complete Database Sharding Guide](https://www.designgurus.io/blog/database-sharding-guide-2026?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-component-capacity), for the case where one database node is not enough.

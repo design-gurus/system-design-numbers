@@ -59,6 +59,8 @@ Media is excluded here. If 5 percent of messages carried a 200 KB image, images 
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-chat-messaging) contains a complete messaging design, including delivery guarantees and presence.
+- Lesson: [Designing Facebook Messenger](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-facebook-messenger?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-chat-messaging), in Grokking the System Design Interview
+- Lesson: [Design WhatsApp](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-whatsapp?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-chat-messaging), in System Design Interview Crash Course
 - The sibling repository has a [chat walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-whatsapp.md) for the complete design.
 - [Component capacity](../numbers/component-capacity.md) explains the per-server connection assumption.
 - Free article: [How to Design a Real-Time Chat Application](https://www.designgurus.io/blog/design-chat-application?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-chat-messaging), the design that these numbers size.

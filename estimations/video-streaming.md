@@ -60,6 +60,9 @@ Minutes uploaded per second   5,000,000 / 86,400      = about 58
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-video-streaming) contains the complete video platform design, including encoding and adaptive streaming.
+- Lesson: [Designing Youtube or Netflix](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-youtube-or-netflix?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-video-streaming), in Grokking the System Design Interview
+- Lesson: [Design YouTube](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-youtube?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-video-streaming), in System Design Interview Crash Course
+- Lesson: [Design Netflix](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-netflix?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-video-streaming), in System Design Interview Crash Course
 - The sibling repository has a [video platform walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-youtube.md) for the complete design.
 - [Network and bandwidth](../numbers/network-and-bandwidth.md) lists the bitrates and link speeds used above.
 - Free article: [Designing a Scalable Video Streaming Platform Like YouTube and Netflix](https://www.designgurus.io/blog/design-video-streaming-platform?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-video-streaming), the design that these numbers size.

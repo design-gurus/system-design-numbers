@@ -60,6 +60,9 @@ Load on one cache node    50,000 / 100,000                        = 50 percent
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-rate-limiter-memory) contains the complete rate limiter design, including the distributed case.
+- Lesson: [Designing an API Rate Limiter](https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-an-api-rate-limiter?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-rate-limiter-memory), in Grokking the System Design Interview
+- Lesson: [Design a Distributed Rate Limiter](https://www.designgurus.io/course-play/system-design-interview-crash-course/doc/design-a-distributed-rate-limiter?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-rate-limiter-memory), in System Design Interview Crash Course
+- Lesson: [Rate Limiting Algorithms](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/rate-limiting-algorithms?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-rate-limiter-memory), in Grokking System Design Fundamentals
 - The sibling repository has a [rate limiter walkthrough](https://github.com/design-gurus/grokking-system-design/blob/main/questions/design-rate-limiter.md) for the complete design.
 - [Storage and object sizes](../numbers/storage-and-object-sizes.md) lists the field sizes used above.
 - Free article: [How to Design a Rate Limiter: Algorithms, Architecture, and Trade-offs](https://www.designgurus.io/blog/grokking-rate-limiters?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=estimations-rate-limiter-memory), the design that these numbers size.

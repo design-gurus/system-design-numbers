@@ -67,5 +67,7 @@ Before leaving the estimate, confirm four items:
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-common-mistakes) demonstrates the estimation step in every design it covers.
+- Lesson: [Back-of-the-Envelope, Revisited](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/backoftheenvelope-revisited?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-common-mistakes), in Advanced System Design Fundamentals
+- Lesson: [When Estimates Change the Design](https://www.designgurus.io/course-play/advanced-system-design-fundamentals/doc/when-estimates-change-the-design?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-common-mistakes), in Advanced System Design Fundamentals
 - [Advanced System Design Fundamentals](https://www.designgurus.io/course/advanced-system-design-fundamentals?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-common-mistakes) covers the cases where an estimate should change the design.
 - [Rounding rules](rounding-rules.md) explains which shortcuts are safe.

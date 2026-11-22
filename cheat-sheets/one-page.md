@@ -111,6 +111,7 @@ Nodes         = peak load / capacity per node / 0.7
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-one-page) is the full course these numbers support, with complete designs and an interview framework.
+- Lesson: [Numbers You Should Know](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/numbers-you-should-know?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-one-page), in Grokking System Design Fundamentals
 - [Advanced System Design Interview, Volume II](https://www.designgurus.io/course/grokking-system-design-interview-ii?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-one-page) continues with larger case studies once the fundamentals are secure.
 - [Grokking System Design](https://github.com/design-gurus/grokking-system-design) is the sibling repository with patterns and question walkthroughs.
 - Free article: [System Design Cheat Sheet: All Key Concepts on One Page](https://www.designgurus.io/blog/system-design-cheat-sheet?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=cheat-sheets-one-page), the concepts to review next to these numbers.

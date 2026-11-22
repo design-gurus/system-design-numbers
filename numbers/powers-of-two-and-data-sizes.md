@@ -66,4 +66,5 @@ Six characters are sufficient in principle, but a space that is 11 percent full 
 ## Go deeper
 
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-powers-of-two-and-data-sizes) applies key-space and storage arithmetic to complete designs.
+- Lesson: [Numbers You Should Know](https://www.designgurus.io/course-play/grokking-system-design-fundamentals/doc/numbers-you-should-know?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=numbers-powers-of-two-and-data-sizes), in Grokking System Design Fundamentals
 - [Storage and object sizes](storage-and-object-sizes.md) lists the per-record sizes to multiply by.

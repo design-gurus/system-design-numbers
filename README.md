@@ -191,6 +191,8 @@ The correct order of magnitude is sufficient. An interviewer evaluates the assum
 - [System Design Interview Crash Course](https://www.designgurus.io/course/system-design-interview-crash-course?utm_source=github&utm_medium=repo&utm_campaign=system-design-numbers&utm_content=readme) is the shorter path for an interview that is a few days away.
 - [Grokking System Design](https://github.com/design-gurus/grokking-system-design) is the sibling repository with patterns, question walkthroughs, and its own [estimation](https://github.com/design-gurus/grokking-system-design/blob/main/cheat-sheets/estimation.md) and [latency](https://github.com/design-gurus/grokking-system-design/blob/main/cheat-sheets/latency-numbers.md) sheets.
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new worked estimations are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first, and show the arithmetic for every number you add.
